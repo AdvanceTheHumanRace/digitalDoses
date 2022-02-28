@@ -1,7 +1,8 @@
 # Notes
 My game: Our Story Story
 Using Instagram stories to 
-- Game Goals: Harness the power of free writing to understand ourselves
+- Game Goals: 
+  - Harness the power of free writing to understand ourselves
   - Increased connection through vulnerability and greater self awareness
   - Transform the energy of social media
   - Ground positive human connection into reality
