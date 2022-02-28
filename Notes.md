@@ -22,4 +22,5 @@ A respository of sound, color and word art from experimental to fine, where arti
   - Recording studio mixed use rent to public and community benefit
   - Onsite food forrest, garden and agricultural education
   - Community kitchen (think clubhouse style) for mixed use by residents and community, rent to public for revenue
+
 Biomimcry: Chemical bonding
