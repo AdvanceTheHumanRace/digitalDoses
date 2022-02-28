@@ -57,16 +57,16 @@ epicPlaylist: {
       focus:                         "digital doses",
       
       /// INSPIRATION: What other service will serve as inspiration for what you create? ///
-      serviceInspiration:            " ",
+      serviceInspiration:            "Smple: A Creative Space ",
       
       /// REFERENCE: Share a website related to the product/service ///
-      serviceInspiractionURL:        " "
+      serviceInspiractionURL:        "smple.io "
       
       ///// Add a note for how these responses tie together (Listen to recording) ///
     },
     gr1v1space: {
       /// How would you like to help communities transform? ///
-      communityProject:              "creation space",
+      communityProject:              "medicine cabinet",
       communityProjectExampleURL:    "[COMMUNITY_PROJECT_EXAMPLE_URL]",
       
       /// What other project would you like to promote? ///
